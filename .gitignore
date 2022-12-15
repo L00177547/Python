@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 # Ignore IDE settings
 .idea
+# Ignore .cmd Files
+.cmd
