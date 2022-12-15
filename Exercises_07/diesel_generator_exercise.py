@@ -86,7 +86,7 @@ def user_input_validation():
                         logger.info(f"The endurance of the generator is {endurance_min} minutes and"
                               f" {endurance_sec_2} seconds")
                 finally:
-                    log.info("Calculation Completed")
+                    logger.info("Calculation Completed")
 
 
 if __name__ == '__main__':
