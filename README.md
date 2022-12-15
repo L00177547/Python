@@ -5,10 +5,10 @@
 - Academic Year 2022/23
 - Python Repository
 </pre>
-![img.png](./documentation/python-powered.gif) ![img.png](./documentation/markdown/Git.gif) ![img.png](./documentation/markdown/GitHub.gif)![img.png](./documentation/markdown/Github2.jpg) <br/>
+![img.png](./documentation/markdown/python-powered.gif) ![img.png](./documentation/markdown/Git.gif) ![img.png](./documentation/markdown/GitHub.gif)![img.png](./documentation/markdown/Github2.jpg) <br/>
 # Python Exercises - IaC Weeks 2 - 5
 
-### This repository contains all the Python Exercices carried out in Weeks 2 to 5 of the Module Infrastructure as Code(IaC) for the academic year 2022/23. 
+### This repository contains all the Python Exercises carried out in Weeks 2 to 5 of the Module Infrastructure as Code(IaC) for the academic year 2022/23. 
 <br/>
 
 ## Table of contents
